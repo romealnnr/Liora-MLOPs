@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# WSL / Linux
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Data
+data/
+datasets/
+*.csv
+*.zip
+*.tar
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Models
+models/
+checkpoints/
+
+# Docker
+*.pid
+
+# Secrets
+*.pem
+*.key
+*.env
